@@ -1,0 +1,17 @@
+{
+  "name": "assesment",
+  "version": "1.0.0",
+  "description": "Assesment for EMERALD LABS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Hassam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
